@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.vf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.carte {
+    width: 300px;
+    height: 500px;
+    background: #808;
+    
+    border-radius: 10px;
+   
+ 
+    
+}
+.carte:hover {
+    background: #ff00ff;
+    transform: scale(1.02);
+    
+
+}
